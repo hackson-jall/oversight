@@ -1,0 +1,37 @@
+button {
+  font-size: 1em;
+  margin-left: 10px;
+  margin-top: 5px;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  color: #061e78;
+}
+button:hover {
+  color: #faa613;
+}
+
+div.nav-menu {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+}
+
+div.inner-menu {
+  display: flex;
+  flex-direction: row;
+  min-width: 300px;
+  padding-left: 10px;
+  padding-right: 40px;
+  align-items: center;
+  justify-content: space-between;
+}
+img {
+  height: 128px;
+  width: auto;
+}

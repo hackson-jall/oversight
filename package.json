@@ -31,8 +31,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://charjhall.github.io/oversight",
+  "homepage": "https://charjhall.github.io/oversight/",
   "devDependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^2.1.1"
   }
 }

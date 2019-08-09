@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/oversight/static/css/main.f1690810.chunk.css",
+    "main.js": "/oversight/static/js/main.84a7f8b5.chunk.js",
+    "main.js.map": "/oversight/static/js/main.84a7f8b5.chunk.js.map",
+    "runtime~main.js": "/oversight/static/js/runtime~main.5730de76.js",
+    "runtime~main.js.map": "/oversight/static/js/runtime~main.5730de76.js.map",
+    "static/js/2.40e5a9e8.chunk.js": "/oversight/static/js/2.40e5a9e8.chunk.js",
+    "static/js/2.40e5a9e8.chunk.js.map": "/oversight/static/js/2.40e5a9e8.chunk.js.map",
+    "index.html": "/oversight/index.html",
+    "precache-manifest.53d8f9f69401fd26e5ee4f8c88997bf8.js": "/oversight/precache-manifest.53d8f9f69401fd26e5ee4f8c88997bf8.js",
+    "service-worker.js": "/oversight/service-worker.js",
+    "static/css/main.f1690810.chunk.css.map": "/oversight/static/css/main.f1690810.chunk.css.map",
+    "static/media/add_engagement.png": "/oversight/static/media/add_engagement.ef8d9cd0.png",
+    "static/media/kids_ipad.png": "/oversight/static/media/kids_ipad.8fd0ec5d.png",
+    "static/media/logo.png": "/oversight/static/media/logo.9c78e7bd.png",
+    "static/media/message_swipe.png": "/oversight/static/media/message_swipe.a9ea4937.png",
+    "static/media/oversignal_over_silos.png": "/oversight/static/media/oversignal_over_silos.24628c6f.png",
+    "static/media/silos.png": "/oversight/static/media/silos.24309731.png"
+  }
+}

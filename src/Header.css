@@ -31,7 +31,7 @@ div.inner-menu {
   align-items: center;
   justify-content: space-between;
 }
-img {
-  height: 128px;
-  width: auto;
+img.logo {
+  max-width: 537px;
+  max-height: 84px;
 }

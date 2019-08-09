@@ -1,0 +1,12 @@
+div.two-panel-display {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+}
+img.logo {
+  height: 256px;
+  width: auto;
+}
